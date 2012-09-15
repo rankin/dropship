@@ -39,3 +39,4 @@ gem 'jquery-rails'
 
 gem 'spree', :git => 'git://github.com/spree/spree.git'
 gem 'spree_auth_devise', :git => 'git://github.com/spree/spree_auth_devise'
+gem 'foreman'
